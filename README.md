@@ -9,12 +9,14 @@ Download
 2. Find the release to the zip folder
 3. Download the zip folder
 4. Extract the zip folder
+
 Modify
 1. Open your editing software
 2. Click "File"
 3. Click "Open Folder"
 4. Select the extracted folder
 5. Now you can modify!
+
 Use
 1. Open your browser
 2. Go to File Explorer
