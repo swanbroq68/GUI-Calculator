@@ -15,7 +15,6 @@ Modify
 3. Click "Open Folder"
 4. Select the extracted folder
 5. Now you can modify!
-#
 Use
 1. Open your browser
 2. Go to File Explorer
