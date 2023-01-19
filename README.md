@@ -1,6 +1,8 @@
 # GUI-Calculator
 A GUI calculator made principally with Javascript
 
+Warning: I won't update anything (atleast not for bugs)
+
 # How to use
 Modify
 1. Open your editing software
