@@ -4,6 +4,11 @@ A GUI calculator made principally with Javascript
 Warning: I won't update anything (atleast not for bugs)
 
 # How to use
+Download
+1. Go to "Releases"
+2. Find the release to the zip folder
+3. Download the zip folder
+4. Extract the zip folder
 Modify
 1. Open your editing software
 2. Click "File"
